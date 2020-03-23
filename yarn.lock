@@ -4,10 +4,10 @@
 
 "@snyk/gemfile@^1.2.0":
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@snyk/gemfile/-/gemfile-1.2.0.tgz#919857944973cce74c650e5428aaf11bcd5c0457"
-  integrity sha512-nI7ELxukf7pT4/VraL4iabtNNMz8mUo7EXlqCFld8O5z6mIMLX9llps24iPpaIZOwArkY3FWA+4t+ixyvtTSIA==
+  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/@snyk/gemfile/-/@snyk/gemfile-1.2.0.tgz#18b2bed36a4880b2dc07d7315c8db6d86e8de0d4"
+  integrity sha1-GLK+02pIgLLcB9cxXI222G6N4NQ=
 
-ms@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
-  integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
+ms@1.0.0:
+  version "1.0.0"
+  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/ms/-/ms-1.0.0.tgz#815077218b8d71a6b180ecb49594e56541c584d4"
+  integrity sha1-gVB3IYuNcaaxgOy0lZTlZUHFhNQ=
