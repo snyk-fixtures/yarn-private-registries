@@ -1,8 +1,11 @@
 {
   "name": "yarn-private-registries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/"
+  },
   "dependencies": {
     "@snyk/gemfile": "^1.2.0",
     "ms": "1.0.0"
