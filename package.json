@@ -8,7 +8,13 @@
   },
   "dependencies": {
     "@snyk/gemfile": "^1.2.0",
-    "lodash": "4.17.11",
-    "ms": "1.0.0"
-  }
+    "lodash": "4.17.12",
+    "ms": "1.0.0",
+    "snyk": "^1.303.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
+  },
+  "snyk": true
 }
