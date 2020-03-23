@@ -1,6 +1,6 @@
 {
   "name": "yarn-private-registries",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@snyk/gemfile": "^1.2.0",
+    "lodash": "4.17.11",
     "ms": "1.0.0"
   }
 }
