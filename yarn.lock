@@ -7,10 +7,10 @@
   resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/@snyk/gemfile/-/@snyk/gemfile-1.2.0.tgz#18b2bed36a4880b2dc07d7315c8db6d86e8de0d4"
   integrity sha1-GLK+02pIgLLcB9cxXI222G6N4NQ=
 
-lodash@4.17.11:
-  version "4.17.11"
-  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/lodash/lodash-4.17.11.tgz#23736acc4dd31c1dc131cf20319d9cc052f14045"
-  integrity sha1-I3NqzE3THB3BMc8gMZ2cwFLxQEU=
+lodash@4.17.12:
+  version "4.17.12"
+  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test/lodash/lodash-4.17.12.tgz#fb82a8849d28e5f0f51e9ffcfa1725658ab9d55d"
+  integrity sha1-+4KohJ0o5fD1Hp/8+hclZYq51V0=
 
 ms@1.0.0:
   version "1.0.0"
